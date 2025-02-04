@@ -271,13 +271,13 @@
 
 .u-section-7 .u-image-3 {
   width: 401px;
-  height: 401px;
-  margin: 10px auto 9px;
+  height: 400px;
+  margin: 10px auto;
 }
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 879px;
+    min-height: 891px;
   }
 
   .u-section-7 .u-image-1 {
@@ -291,11 +291,15 @@
   }
 
   .u-section-7 .u-image-3 {
-    width: 340px;
-    height: 340px;
+    height: 339px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }.u-section-8 .u-sheet-1 {
-  min-height: 1049px;
+  min-height: 1276px;
 }
 
 .u-section-8 .u-image-1 {
@@ -306,13 +310,13 @@
 
 .u-section-8 .u-text-1 {
   font-weight: 400;
-  margin: -72px auto 0;
+  margin: -85px auto 0;
 }
 
 .u-section-8 .u-image-2 {
   width: 400px;
-  height: 300px;
-  margin: 27px auto 0;
+  height: 189px;
+  margin: 40px auto 0;
 }
 
 .u-section-8 .u-image-3 {
@@ -324,12 +328,18 @@
 .u-section-8 .u-image-4 {
   width: 400px;
   height: 300px;
-  margin: 13px auto;
+  margin: 25px auto 0;
+}
+
+.u-section-8 .u-image-5 {
+  width: 400px;
+  height: 300px;
+  margin: 25px auto 13px;
 }
 
 @media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 901px;
+    min-height: 1086px;
   }
 
   .u-section-8 .u-image-1 {
@@ -339,22 +349,39 @@
 
   .u-section-8 .u-text-1 {
     font-weight: 700;
-    margin-top: -59px;
+    margin-top: -72px;
   }
 
   .u-section-8 .u-image-2 {
-    width: 340px;
-    height: 255px;
+    height: 137px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-8 .u-image-3 {
-    width: 340px;
     height: 255px;
+    margin-top: 20px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-8 .u-image-4 {
-    width: 340px;
     height: 255px;
+    margin-top: 20px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-8 .u-image-5 {
+    height: 255px;
+    margin-top: 20px;
+    margin-bottom: 19px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }.u-section-9 .u-sheet-1 {
   min-height: 620px;
