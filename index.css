@@ -553,7 +553,7 @@
 
   .u-section-13 .u-image-2 {
     height: 255px;
-    margin-top: 13px;
+    margin-top: 10px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -561,6 +561,7 @@
 
   .u-section-13 .u-image-3 {
     height: 255px;
+    margin-top: 10px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -569,7 +570,7 @@
   .u-section-13 .u-text-1 {
     font-size: 1.25rem;
     width: auto;
-    margin-top: 16px;
+    margin-top: 22px;
     margin-left: 0;
     margin-right: 0;
   }
