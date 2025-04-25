@@ -431,7 +431,7 @@
 
 @media (max-width: 575px) {
   .u-section-10 .u-sheet-1 {
-    min-height: 526px;
+    min-height: 542px;
   }
 
   .u-section-10 .u-image-1 {
@@ -442,10 +442,8 @@
   }
 
   .u-section-10 .u-image-2 {
+    width: 340px;
     height: 255px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
   }
 }.u-section-11 .u-sheet-1 {
   min-height: 310px;
